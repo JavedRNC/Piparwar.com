@@ -10,13 +10,13 @@ namespace Piparwar.com.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "Welcome - PiparwarWeb.com";
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult AboutUs()
         {
-            ViewBag.Message = "Your application description page.";
-
+            ViewBag.Title = "About Us - Piparwar.com";
             return View();
         }
 

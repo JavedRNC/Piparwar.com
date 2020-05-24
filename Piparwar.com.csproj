@@ -129,32 +129,32 @@
   <ItemGroup>
     <Content Include="Content\assets\css\style.css" />
     <Content Include="Content\assets\img\apple-touch-icon.png" />
+    <Content Include="Content\assets\img\background-cement-concrete-paint-242236.jpg" />
     <Content Include="Content\assets\img\clients\client-1.png" />
     <Content Include="Content\assets\img\clients\client-2.png" />
     <Content Include="Content\assets\img\clients\client-3.png" />
     <Content Include="Content\assets\img\clients\client-4.png" />
     <Content Include="Content\assets\img\clients\client-5.png" />
     <Content Include="Content\assets\img\clients\client-6.png" />
+    <Content Include="Content\assets\img\coollogo_com-25234154.png" />
     <Content Include="Content\assets\img\cta-bg.jpg" />
+    <Content Include="Content\assets\img\d300c9ed-ad81-436e-a113-471ec8d7a06c_200x200.png" />
+    <Content Include="Content\assets\img\facebook_cover_photo_1.png" />
     <Content Include="Content\assets\img\favicon.png" />
     <Content Include="Content\assets\img\hero-img.png" />
-    <Content Include="Content\assets\img\portfolio\portfolio-1.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-2.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-3.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-4.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-5.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-6.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-7.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-8.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-9.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-details-1.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-details-2.jpg" />
-    <Content Include="Content\assets\img\portfolio\portfolio-details-3.jpg" />
+    <Content Include="Content\assets\img\portfolio\pic1.jpg" />
+    <Content Include="Content\assets\img\portfolio\pic2.jpg" />
+    <Content Include="Content\assets\img\portfolio\pic3.png" />
+    <Content Include="Content\assets\img\portfolio\pic4.jpg" />
+    <Content Include="Content\assets\img\portfolio\pic5.jpg" />
+    <Content Include="Content\assets\img\portfolio\pic6.jpg" />
+    <Content Include="Content\assets\img\portfolio\pic7.jpg" />
     <Content Include="Content\assets\img\skills.png" />
     <Content Include="Content\assets\img\team\team-1.jpg" />
     <Content Include="Content\assets\img\team\team-2.jpg" />
     <Content Include="Content\assets\img\team\team-3.jpg" />
     <Content Include="Content\assets\img\team\team-4.jpg" />
+    <Content Include="Content\assets\img\white-painted-wall-1939485.jpg" />
     <Content Include="Content\assets\img\why-us.png" />
     <Content Include="Content\assets\js\main.js" />
     <Content Include="Content\assets\vendor\aos\aos.css" />
@@ -208,6 +208,9 @@
     <Content Include="Content\index.html" />
     <Content Include="Content\portfolio-details.html" />
     <Content Include="Content\Readme.txt" />
+    <Content Include="Content\Team\javed.jpg" />
+    <Content Include="Content\Team\lukmama.jpg" />
+    <Content Include="Content\Team\Shahid.jpeg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -239,6 +242,7 @@
     <Content Include="Content\assets\vendor\remixicon\remixicon.ttf" />
     <Content Include="Content\assets\vendor\remixicon\remixicon.woff" />
     <Content Include="Content\assets\vendor\remixicon\remixicon.woff2" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -262,6 +266,10 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\AboutUs.cshtml" />
+    <Content Include="Views\Shared\_Layout2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

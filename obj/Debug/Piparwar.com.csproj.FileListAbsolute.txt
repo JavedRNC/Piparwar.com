@@ -69,7 +69,7 @@ C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\bin\System.Web.WebPages.R
 C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\bin\Newtonsoft.Json.xml
 C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\bin\Antlr3.Runtime.pdb
 C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\obj\Debug\Piparwar.com.csprojAssemblyReference.cache
 C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\obj\Debug\Piparwar.com.csproj.CopyComplete
 C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\obj\Debug\Piparwar.com.dll
 C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\obj\Debug\Piparwar.com.pdb
+C:\Users\Lenovo\source\repos\Piparwar.com\Piparwar.com\obj\Debug\Piparwar.com.csprojAssemblyReference.cache
